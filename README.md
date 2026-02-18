@@ -1,2 +1,18 @@
-# Beautify-pressOn-N2
-Beautify-PressOn-N2 is a modern, design-first press-on nail brand built to deliver salon-quality nails with convenience, affordability, and style. This project represents the digital and operational foundation of a premium press nail business — combining beauty, branding, and e-commerce into one scalable ecosystem.
+# 💅 Beautify By Mansi
+
+Luxury Handmade Press-On Nails Website
+
+## 🚀 Features
+- Product showcase
+- Order system
+- Razorpay integration
+- Admin panel
+- Secure backend
+
+## 🛠 Tech Stack
+Frontend: React / Next.js  
+Backend: Node.js + Express  
+Database: MongoDB  
+
+## 👑 Brand Tagline
+Luxury At Your Fingertips
